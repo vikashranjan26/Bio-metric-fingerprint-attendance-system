@@ -1,3 +1,9 @@
+In this folder many files are taken from some different sources 
+and modified according to the my requirments.
+
+Maximum files are taken from Vahid K. Alilou that's why I am including 
+copyright condition of him.
+
 Copyright (c) 2013, Vahid K. Alilou
 All rights reserved.
 
